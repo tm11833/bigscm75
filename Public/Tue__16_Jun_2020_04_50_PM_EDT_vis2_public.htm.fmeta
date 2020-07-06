@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="HtmlFile">
+    <properties size="2">
+        <entry key="GeneratedByPath" value="IBFS:/WFC/Repository/P459_S33046_Reg_UI/Public/vis2_public.fex"/>
+        <entry key="OutputFormat" value="HTML"/>
+    </properties>
+    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="0"/>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Tue, 16 Jun 2020 04:50 PM EDT vis2_public"/>
+            </value>
+        </entry>
+    </nlsValues>
+</rootObject>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ibx-res-bundle name="page_res.xml">
+	<pgx-meta>
+		<pgx-version>1.3</pgx-version>
+		<pgx-mode>MODE_ASSEMBLE</pgx-mode>
+		<pgx-hash>e05e218288555cae0c1c5510648cff8d0a7fb5bc</pgx-hash>
+	</pgx-meta>
+	<string-file src="page.prop?IBFS_format=pgx"/>
+	<strings></strings>
+	<styles></styles>
+	<markup>
+		<markup-block>
+			<div class="pd-page-wrapper">
+				<div data-ibx-type="pdPage" data-ibxp-title="@STR_PAGE_HEADING" data-ibxp-description="@STR_PAGE_DESCRIPTION" data-ibxp-show-header="true" data-ibxp-show-toolbar="true" data-ibxp-show-refresh="true" data-ibxp-show-export="true" data-ibxp-show-pdf="true" data-ibxp-show-image="true" data-ibxp-filter-type="none" data-ibxp-filter-open="false" data-ibxp-theme="IBFS:/WFC/Global/Themes/Standard/Default/theme.css" data-ibxp-size-class="pd-style-heading3" data-ibxp-ss-id="PAGE-J8HRWSPV1LMQA09M81546" data-ibxp-custom-class="" data-ibxp-hidden="false" data-ibxp-workbook="false" data-ibxp-show-embedded-js="false" data-ibxp-show-embedded-css="false" data-ibxp-max-width="">
+					<div data-ibx-type="pdPageSection" data-ibxp-collapsed="false" data-ibxp-description="@STR_SECTION_DESCRIPTION_11" data-ibxp-collapsible="false" data-ibxp-ss-id="SECTION-J8HRWSOE1ZL7BVBPG1535" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color" data-ibxp-cell-height="60">
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_2" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_9" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="0" data-ibxp-grid-y="0" data-ibxp-grid-width="3" data-ibxp-grid-height="7" data-ibxp-ss-id="CONTAINER-J8HRWSMZ14BB9C07I4108" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_2" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_10" data-ibxp-ss-id="CONTENT-J8HRWSMN1Y46035XH4035" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="" data-ibxp-file=""></div>
+						</div>
+						<div data-ibx-type="pdContainer" data-ibxp-type="panel" data-ibxp-title="@STR_CONT_TITLE_14" data-ibxp-original-title="@STR_CONT_TITLE_ORIGINAL_15" data-ibxp-maximized="false" data-ibxp-show-title="true" data-ibxp-show-toolbar="true" data-ibxp-lock-content="true" data-ibxp-es-path="" data-ibxp-es-lock-path="true" data-ibxp-es-flatten-list="false" data-ibxp-es-hide-tags="false" data-ibxp-es-initial-view="grid" data-ibxp-device-display="7" data-ibxp-carousel-interval="0" data-ibxp-carousel-rerun="false" data-ibxp-grid-x="3" data-ibxp-grid-y="0" data-ibxp-grid-width="3" data-ibxp-grid-height="5" data-ibxp-ss-id="CONTAINER-KBICSSXM1JL9M7ZWB108" data-ibxp-custom-class="" data-ibxp-color-class="pd-style-default-color">
+							<div data-ibx-type="pdContent" data-ibxp-type="bip_launch" data-ibxp-title="@STR_PANE_TITLE_16" data-ibxp-original-title="@STR_PANE_TITLE_ORIGINAL_17" data-ibxp-ss-id="CONTENT-KBICSSY415A7WPJBR3377" data-ibxp-custom-class="" data-ibxp-style="inherit" data-ibxp-path="IBFS:/WFC/Repository/P459_S33046_Reg_UI/Public/" data-ibxp-file="vis1_public.fex"></div>
+						</div>
+					</div>
+					<!--endsections-->
+				</div>
+			</div>
+		</markup-block>
+		<markup-block>
+			<div class="pd-internal-stylesheet">
+				.page-placeholder {margin-left: 20px;} .PAGE-J8HRWSPV1LMQA09M81546 .pd-regular-filter-wrapper .pd-filter-grid {padding: 0px 10px;} .PAGE-J8HRWSPV1LMQA09M81546 .pd-page-canvas {padding-top: 10px;} .PAGE-J8HRWSPV1LMQA09M81546 .pd-page-canvas .pd-page-acc-section:last-child .grid-stack.pd-top-section {margin-bottom: 10px;}.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section {margin: 0px 10px 0px 10px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.grid-stack-item-content {padding: 10px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-e,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-se {right: 5px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-s,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-se,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-sw {bottom: 5px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-w,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item &gt;.ui-resizable-sw {left: 5px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-placeholder &gt;.placeholder-content {top: 10px;right: 10px;bottom: 10px;left: 10px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.pd-page-section-grid &gt;.pd-page-section-grid-box {padding: 10px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-e,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-se {right: -5px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-s,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-se,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-sw {bottom: -5px;} .PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-w,.PAGE-J8HRWSPV1LMQA09M81546 .grid-stack.pd-page-section &gt;.grid-stack-item.grid-stack-item-panel-in-panel.toolbar-hidden &gt;.ui-resizable-sw {left: -5px;}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				>
+			</div>
+			<!--endis-->
+		</markup-block>
+		<markup-block>
+			<pgx-wfd>
+				<pgx-wfd-path path="" run="false" runBD="true"></pgx-wfd-path>
+				<pgx-wfd-path path="IBFS:/WFC/Repository/P459_S33046_Reg_UI/Public/vis1_public.fex" run="false" runBD="true"></pgx-wfd-path>
+			</pgx-wfd>
+			<!--endpgxwfd-->
+		</markup-block>
+	</markup>
+	<scripts></scripts>
+</ibx-res-bundle>
